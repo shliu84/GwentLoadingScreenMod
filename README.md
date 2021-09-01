@@ -28,10 +28,15 @@ loadingscreenbackground14 = Aglais
 loadingscreenbackground15 = Crach an Craite  
 loadingscreenbackground16 = Foltest  
 
+If you want to build your own mods, you can read the Moding Tutorial:
+ https://www.reddit.com/r/gwent/comments/gkjr5w/modding_tutorial/
+
+Personal uses only. 
+
 ## Refrence
+
 https://www.reddit.com/r/thewitcher3/comments/oqsuzd/radovid_4k_upscaled_wallpaper/
 https://www.dropbox.com/sh/ouezvkhiiaegumn/AAByzsKdG5XO8gc3ViBtCpjHa?dl=0
-https://www.reddit.com/r/gwent/comments/gkjr5w/modding_tutorial/
 https://www.reddit.com/r/gwent/comments/hvfjkd/loading_screen_mod/
 https://www.reddit.com/r/gwent/comments/gq78tp/mods_for_gwent_the_witcher_card_game/
 
