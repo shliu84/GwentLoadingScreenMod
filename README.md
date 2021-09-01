@@ -28,7 +28,7 @@ loadingscreenbackground14 = Aglais
 loadingscreenbackground15 = Crach an Craite  
 loadingscreenbackground16 = Foltest  
 
-If you want to build your own mods, you can read the Moding Tutorial:
+If you want to build your own mods, refer to this Moding Tutorial:
  https://www.reddit.com/r/gwent/comments/gkjr5w/modding_tutorial/
 
 Personal uses only. 
